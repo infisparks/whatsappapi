@@ -3,6 +3,7 @@ node_modules/
 
 # WhatsApp Web.js authentication files
 .wwebjs_auth/
+.wwebjs_cache/
 
 # Logs
 logs
